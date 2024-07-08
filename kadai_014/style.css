@@ -9,7 +9,7 @@ body {
 
 h1{
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: 40px;
+  font-optical-sizing: 2em;
   font-weight: <weight>;
   font-style: normal;
 }
